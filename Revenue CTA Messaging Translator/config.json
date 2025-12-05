@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "Revenue CTA and Messaging Translator",
+    "description": "Translates CPI’s fundraising and messaging into English with aligned tone and voice.",
+    "version": "1.0.0",
+    "author": "Annette Ramirez",
+    "license": "None"
+  },
+  "configuration": {
+    "model": "No Recommended Model"
+  },
+  "capabilities": {
+    "webSearch": true,
+    "canvas": true,
+    "imageGeneration": false,
+    "codeInterpreter": true
+  },
+  "conversationStarters": [
+    "Translate this fundraising email into English.",
+    "Adapt this CTA message for an English-speaking audience.",
+    "Does this translation match CPI's tone?",
+    "Can you revise this sentence to align with CPI's voice?"
+  ],
+  "actions": [],
+  "knowledge": [
+    {
+      "name": "Communications Guide SAMPLE.pdf",
+      "description": ""
+    }
+  ]
+}

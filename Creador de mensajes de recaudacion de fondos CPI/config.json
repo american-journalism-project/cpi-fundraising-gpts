@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "name": "Creador de mensajes de recaudación de fondos CPI",
+    "description": "Genera y evalúa mensajes de campañas alineados con la Guía de Comunicaciones del CPI | Creates and evaluates campaign messages aligned with the CPI Fundraising Communications Guide.",
+    "version": "1.0.0",
+    "author": "Annette Ramirez",
+    "license": "None"
+  },
+  "configuration": {
+    "model": "No Recommended Model"
+  },
+  "capabilities": {
+    "webSearch": true,
+    "canvas": true,
+    "imageGeneration": false,
+    "codeInterpreter": true
+  },
+  "conversationStarters": [
+    "Genera un call to action para la campaña NewsMatch.",
+    "Evalúa este mensaje según la guía del CPI.",
+    "Escribe un correo de agradecimiento a donantes recientes.",
+    "Crea un mensaje para invitar a un evento del CPI."
+  ],
+  "actions": [],
+  "knowledge": [
+    {
+      "name": "Communications Guide SAMPLE.pdf",
+      "description": ""
+    }
+  ]
+}

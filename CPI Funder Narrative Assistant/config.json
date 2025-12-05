@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "name": "CPI Funder Narrative Assistant",
+    "description": "Tailored assistant ready to generate and refine CPI narratives on demand.",
+    "version": "1.0.0",
+    "author": "Annette Ramirez",
+    "license": "None"
+  },
+  "configuration": {
+    "model": "No Recommended Model"
+  },
+  "capabilities": {
+    "webSearch": true,
+    "canvas": true,
+    "imageGeneration": false,
+    "codeInterpreter": true
+  },
+  "conversationStarters": [],
+  "actions": [],
+  "knowledge": [
+    {
+      "name": "sample_knowledge_docs.jpg",
+      "description": ""
+    }
+  ]
+}
