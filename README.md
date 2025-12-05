@@ -1,4 +1,4 @@
-# CPI DevGPTs
+# CPI Fundraising GPTs
 
 A collection of custom GPT assistants created for the [Centro de Periodismo Investigativo](https://periodismoinvestigativo.com/) (CPI) newsroom in Puerto Rico to support fundraising, translation, and donor communication workflows.
 
