@@ -27,7 +27,3 @@ See individual README files in each GPT folder for specific setup instructions.
 ## Background
 
 These GPTs were developed through CPI's participation in the AJP AI Revenue Program in 2025. The initiative focused on leveraging AI to analyze donor data, develop CPI-specific style guides, and create tools for personalized donor communication.
-
----
-
-*For questions or contributions, contact Annette Ramirez or the CPI development team.*
