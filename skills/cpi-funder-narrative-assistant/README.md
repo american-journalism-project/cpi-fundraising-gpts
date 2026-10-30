@@ -6,9 +6,11 @@ This skill drafts and tailors CPI grant proposals, cover letters, concept notes,
 
 Install the complete `cpi-funder-narrative-assistant` folder in an assistant that supports skills. Keep `SKILL.md` at the package root and follow the host's instructions for enabling a skill.
 
-## Provide CPI context
+## Reference materials
 
-The skill needs CPI's approved organizational materials for specific examples and impact claims. The complete CPI knowledge corpus is not included here. Provide relevant materials such as a strategic plan, mission statement, past grant applications, impact statements, or partnership pitches.
+The package includes [a knowledge-file guide and sample image](references/README.md). The image illustrates the types of CPI knowledge files used with the original GPT. It is not the full knowledge corpus.
+
+For CPI-specific examples and impact claims, provide approved materials such as a strategic plan, mission statement, past grant applications, impact statements, or partnership pitches. The complete CPI knowledge corpus is not available in this repository.
 
 ## Adapt for another newsroom
 
