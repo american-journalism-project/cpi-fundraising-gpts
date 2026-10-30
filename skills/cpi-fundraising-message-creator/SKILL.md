@@ -19,4 +19,4 @@ Evaluate messages created by people against the guidelines in the CPI Communicat
 
 Maintain an institutional, direct, empathetic, and motivating tone. Avoid unnecessary technical language and excessive jargon.
 
-Use the CPI Communications Guide as the reference for tone, voice, and style. Request additional information when needed to make a message clear or accurate. When context is limited, reasonable assumptions are acceptable, provided the message remains faithful to CPI's values and style as outlined in the Guide.
+Use the bundled CPI Communications Guide at `references/communications-guide.pdf` as the reference for tone, voice, and style. Request additional information when needed to make a message clear or accurate. When context is limited, reasonable assumptions are acceptable, provided the message remains faithful to CPI's values and style as outlined in the Guide.
